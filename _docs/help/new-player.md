@@ -60,7 +60,7 @@ The Astral Gate (Premium -> Astral Gate tab) is one of the things you can do to 
 
 ### Quests
 
-Quests are a great way to get extra experience, gold and items. To complete each quest you must fulfill requirements including collecting treasure, touching collectibles, salling/salvaging items, battling, spending stamina, gaining/spending gold and taking steps. If there is a requirement that you don't like, you can reroll it as long as you have more than 100k gold.
+Quests are a great way to get extra experience, gold and items. To complete each quest you must fulfill requirements including collecting treasure, touching collectibles, selling/salvaging items, battling, spending stamina, gaining/spending gold and taking steps. If there is a requirement that you don't like, you can reroll it as long as you have more than 100k gold.
 
 ### Global Quests
 
